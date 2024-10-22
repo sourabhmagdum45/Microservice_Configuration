@@ -1,1 +1,8 @@
+spring:
+  application:
+    name: UserService
+  datasource:
+    url: jdbc:mysql://localhost:3306/userdb
+    username: user
+    password: password
 
